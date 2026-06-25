@@ -6,7 +6,7 @@
 
 ## Overview
 
-EXP-001 does not use a training dataset. It uses a **prompt dataset** and a **ground truth regulatory corpus**. This file describes both.
+EXP-001 uses a **prompt dataset** and a **ground truth regulatory corpus** as opposed to a training dataset. This file describes both.
 
 ---
 
