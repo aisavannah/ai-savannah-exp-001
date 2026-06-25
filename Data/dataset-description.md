@@ -41,7 +41,7 @@ The ground truth corpus consists of five primary source documents. All are publi
 | DOC-002 | Kenya Data Protection Act | 2019 | Republic of Kenya |
 | DOC-003 | Proceeds of Crime and Anti-Money Laundering Act (POCAMLA) | 2009 (amended) | Republic of Kenya |
 | DOC-004 | CBK Prudential Guidelines — AML/CFT | 2013 (revised) | Central Bank of Kenya |
-| DOC-005 | Kenya Artificial Intelligence Bill | 2026 | Republic of Kenya — Senate |
+| DOC-005 | National Payment System Act | 2011 | Central Bank of Kenya |
 
 ---
 
